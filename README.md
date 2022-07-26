@@ -26,5 +26,8 @@
 <a href="https://stackoverflow.com/users/10781340/sagun-devkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sagun-devkota" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagun_devkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagun_devkota" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Certificates:</h3>
+<p align="left">
+<a href="https://github.com/SagunDevkota/SagunDevkota/blob/main/Certificates/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_QrredNvsNM3nnDaCJ_1658846936969_completion_certificate.pdf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/J_P_Morgan_Logo_2008.svg" alt="certificate" height="30" width="40" /></a>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sagundevkota&label=Profile%20views&color=0e75b6&style=flat" alt="sagundevkota" /> </p>
