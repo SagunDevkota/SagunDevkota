@@ -1,12 +1,11 @@
-[![MasterHead](https://raw.githubusercontent.com/SagunDevkota/SagunDevkota/main/Java_banner-1837319091.png)](https://github.com/SagunDevkota)
 <h1 align="center">Hi 👋, I'm Sagun Devkota</h1>
-<h3 align="center">A passionate JAVA Developer from Nepal.</h3>
+<h3 align="center">A passionate Python Developer from Nepal.</h3>
 
 
 
-- 🌱 I’m currently learning **Java,Spring**
+- 🌱 I’m currently learning **PyTorch,Django**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **sagundevyt@gmail.com**
 
