@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/10781340/sagun-devkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sagun-devkota" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagun_devkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagun_devkota" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sagun-devkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="sagun_devkota" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sagun-devkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagun_devkota" height="30" width="40" /></a>
 </p>
 <h3 align="left">Certificates:</h3>
 <p align="left">
