@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **sagundevyt@gmail.com**
+- 📫 How to reach me **sagundevyt@gmail.com** **sagundevkota07@gmail.com**
 
 
 
